@@ -14,7 +14,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <SiInternetcomputer size="2rem" /> <Span>Vivek</Span>
+            <SiInternetcomputer size="0.8rem" /> <Span>Vivek</Span>
           </a>
         </NavLogo>
         <MobileIcon>
